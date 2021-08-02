@@ -6,7 +6,8 @@ I feel confident in my Java programming skills but I haven't explored deep into 
 I'm just now starting to work on projects to show so **ANY** suggestions about _anything_ would be awesome! Just shoot me an email at <joshuaskybreaker@gmail.com>
 
 ## Projects:
-###   1. [Coffee Shop Prototype](https://github.com/Joshua-Skybreaker/advJavaProject): completed 7/26/21.
+
+###   1. <a href="https://github.com/Joshua-Skybreaker/advJavaProject" target="_blank">Coffee Shop Prototype</a>: completed 7/26/21.
 This project showcases my knowledge of JDBC, writing/reading/sorting/searching databases, working with a collection, and data validation. This program has uses multiple JFrames and is based on several different parameters outlined by my instructor. 
 
 It is designed as a prototype to present to a potential client who owns a coffee shop (not a cafe -weird, I know). You have prototype controls that allow you to insert test records so that you can display customer, coffee, and order data. 
