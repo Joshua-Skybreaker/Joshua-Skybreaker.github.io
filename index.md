@@ -1,9 +1,9 @@
 # Resume Projects
 I'm hoping to use this page to complement my resume by showcasing some of the projects I've completed.
 
-I feel confident in my Java programming skills but I haven't explored many languages outside of that. I've dabbled a little in Python, html, css, and PostgreSQL; but I feel that programming "clicks" with me. My goal is to land an entry level IT job before I graduate with a technical degree in the summer of 2022.
+I feel confident in my Java programming skills but I haven't explored deep into many languages outside of that. I know a little bit of Python, html, css, and PostgreSQL; but I feel that programming really "clicks" with me and I love doing it. My goal is to land an entry level IT job before I graduate with a technical degree in the summer of 2022. I have been thinking of focusing on back-end programming but if you have any suggestions; **please email me!**
 
-If you have any suggestions on projects I should complete to further this goal, please shoot me an email at joshuaskybreaker@gmail.com
+I'm just now starting to work on projects for this purpose so **ANY** suggestions about _anything_ would be awesome! Just shoot me an email at joshuaskybreaker@gmail.com
 
 ## Projects:
 ### 1. [Coffee Shop Prototype](https://github.com/Joshua-Skybreaker/advJavaProject): completed 7/26/21.
