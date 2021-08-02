@@ -6,17 +6,32 @@ I feel confident in my Java programming skills but I haven't explored deep into 
 I'm just now starting to work on projects to show so **ANY** suggestions about _anything_ would be awesome! Just shoot me an email at joshuaskybreaker@gmail.com
 
 ## Projects:
-### 1. [Coffee Shop Prototype](https://github.com/Joshua-Skybreaker/advJavaProject): completed 7/26/21.
+###   1. [Coffee Shop Prototype](https://github.com/Joshua-Skybreaker/advJavaProject): completed 7/26/21.
 This project showcases my knowledge of JDBC, writing/reading/sorting/searching databases, working with a collection, and data validation. This program has uses multiple JFrames and is based on several different parameters outlined by my instructor. 
 
 It is designed as a prototype to present to a potential client who owns a coffee shop (not a cafe -weird, I know). You have prototype controls that allow you to insert test records so that you can display customer, coffee, and order data. 
 
-### 2. [Personal Budget](https://github.com/Joshua-Skybreaker/budgetProject): not yet started.
+###   2. [Personal Budget](https://github.com/Joshua-Skybreaker/budgetProject): not yet started.
 I thought that building this one could be useful for my life in general and I may as well show it too. If anyone can think of something I could add that would make it stand out, please let me konw.
 
-### Markdown
+## Currently Learning:
+### 1. College Courses
+  - C# Programming
+  - Python Programming
+  - Network & Security Foundations
+  - Information Systems Business Concepts
+### 2. Online Courses
+  - PostgreSQL Bootcamp by Udemy
+  - JavaScript Bootcamp by Udemy
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Completed Learning:
+### 1. College Courses
+  - Into to Programming logic
+  - Web, Programming, and Database Foundations
+  - Java Programming
+  - Advanced Java Programming
+
+Only college courses directly related to software development listed.
 
 ```markdown
 Syntax highlighted code block
@@ -35,13 +50,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Joshua-Skybreaker/Joshua-Skybreaker.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
