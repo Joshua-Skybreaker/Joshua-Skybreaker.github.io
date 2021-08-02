@@ -12,7 +12,7 @@ This project showcases my knowledge of JDBC, writing/reading/sorting/searching d
 
 It is designed as a prototype to present to a potential client who owns a coffee shop (not a cafe -weird, I know). You have prototype controls that allow you to insert test records so that you can display customer, coffee, and order data. 
 
-###   2. [Personal Budget](https://github.com/Joshua-Skybreaker/budgetProject): not yet started.
+###   2. <a href="https://github.com/Joshua-Skybreaker/budgetProject" target="_blank">Personal Budget</a>: not yet started.
 I thought that building this one could be useful for my life in general and I may as well show it too. If anyone can think of something I could add that would make it stand out, please let me konw.
 
 ## Currently Learning:
