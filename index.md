@@ -4,7 +4,7 @@ I'm using this page to complement my resume by showcasing some of the projects I
 I feel confident in my Java programming skills but I haven't explored deep into many languages outside of that. I know a little bit of Python, html, css, and PostgreSQL; but I feel that programming really "clicks" with me and I love doing it. My goal is to land an entry level IT job before I graduate with a technical degree in the summer of 2022. I have been thinking of focusing on back-end programming but if you have any suggestions: **please email me!**
 
 I'm just now starting to work on projects to show so **ANY** suggestions about _anything_ would be awesome! Just shoot me an email at <joshuaskybreaker@gmail.com>
-<br/>
+
 ## Projects:
 
 ###   1. <a href="https://github.com/Joshua-Skybreaker/advJavaProject" target="_blank">Coffee Shop Prototype</a>: completed 7/26/21.
