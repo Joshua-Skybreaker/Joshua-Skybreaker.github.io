@@ -9,9 +9,7 @@ If you have any suggestions on projects I should complete to further this goal, 
 ### 1. [Coffee Shop Prototype](https://github.com/Joshua-Skybreaker/advJavaProject): completed 7/26/21.
 This project showcases my knowledge of JDBC, writing/reading/sorting/searching databases, working with a collection, and data validation. This program has uses multiple JFrames and is based on several different parameters outlined by my instructor. 
 
-You can use the [editor on GitHub](https://github.com/Joshua-Skybreaker/Joshua-Skybreaker.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It is designed as a prototype to present to a potential client who owns a coffee shop (not a cafe -weird, I know). You have prototype controls that allow you to insert test records so that you can display customer, coffee, and order data. 
 
 ### Markdown
 
