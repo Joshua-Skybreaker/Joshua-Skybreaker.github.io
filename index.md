@@ -6,6 +6,9 @@ I feel confident in my Java programming skills but I haven't explored deep into 
 I'm just now starting to work on projects to show so **ANY** suggestions about _anything_ would be awesome! Just shoot me an email at joshuaskybreaker@gmail.com
   
    
+   
+   
+   
   
 ## Projects:
 ### 1. [Coffee Shop Prototype](https://github.com/Joshua-Skybreaker/advJavaProject): completed 7/26/21.
