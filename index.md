@@ -1,12 +1,12 @@
-## Resume Projects
+# Resume Projects
 I'm hoping to use this page to complement my resume by showcasing some of the projects I've completed.
 
 I feel confident in my Java programming skills but I haven't explored many languages outside of that. I've dabbled a little in Python, html, css, and PostgreSQL; but I feel that programming "clicks" with me. My goal is to land an entry level IT job before I graduate with a technical degree in the summer of 2022.
 
 If you have any suggestions on projects I should complete to further this goal, please shoot me an email at joshuaskybreaker@gmail.com
 
-
-### Here is a [link](https://github.com/Joshua-Skybreaker/advJavaProject) to a project I completed on 7/26/21.
+## Projects:
+### 1. [Coffee Shop Prototype](https://github.com/Joshua-Skybreaker/advJavaProject):completed 7/26/21.
 This project showcases my knowledge of JDBC, writing/reading/sorting/searching databases, working with a collection, and data validation. This program has uses multiple JFrames and is based on several different parameters outlined by my instructor. 
 
 You can use the [editor on GitHub](https://github.com/Joshua-Skybreaker/Joshua-Skybreaker.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
