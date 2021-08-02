@@ -34,20 +34,10 @@ I thought that building this one could be useful for my life in general and I ma
 
 Only college courses directly related to software development listed.
 
-```markdown
-Syntax highlighted code block
+```java
 
-# Header 1
-## Header 2
-### Header 3
+while(effort > struggle){
+  kick_ass;
+}
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
