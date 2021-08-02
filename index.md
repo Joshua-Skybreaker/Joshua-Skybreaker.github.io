@@ -32,7 +32,7 @@ I thought that building this one could be useful for my life in general and I ma
   - Java Programming
   - Advanced Java Programming
 
-Only college courses directly related to software development listed.
+_Only college courses directly related to software development listed._
 
 ```java
 
