@@ -20,6 +20,7 @@ I thought that building this one could be useful for my life in general and I ma
   - Python Programming
   - Network & Security Foundations
   - Information Systems Business Concepts
+  
 ### 2. Online Courses
   - PostgreSQL Bootcamp by Udemy
   - JavaScript Bootcamp by Udemy
