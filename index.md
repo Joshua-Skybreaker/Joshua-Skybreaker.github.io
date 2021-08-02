@@ -1,4 +1,4 @@
-# Resume Projects
+# Purpose
 I'm using this page to complement my resume by showcasing some of the projects I've completed.
 
 I feel confident in my Java programming skills but I haven't explored deep into many languages outside of that. I know a little bit of Python, html, css, and PostgreSQL; but I feel that programming really "clicks" with me and I love doing it. My goal is to land an entry level IT job before I graduate with a technical degree in the summer of 2022. I have been thinking of focusing on back-end programming but if you have any suggestions: **please email me!**
