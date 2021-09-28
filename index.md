@@ -7,8 +7,8 @@ I'm just now starting to work on projects to show so **ANY** suggestions about _
 
 ## Projects:
 
-###   1. <a href="https://github.com/Joshua-Skybreaker/advJavaProject" target="_blank">Coffee Shop Prototype</a>: completed 7/26/21.
-This project showcases my knowledge of JDBC, writing/reading/sorting/searching databases, working with a collection, and data validation. This program has uses multiple JFrames and is based on several different parameters outlined by my instructor. 
+###   1. <a href="https://github.com/Joshua-Skybreaker/CourseProject.git" target="_blank">Coffee Shop Prototype</a>: completed 7/26/21.
+This project showcases my knowledge of JDBC, writing/reading/sorting/searching databases, working with collections, and data validation. This program has uses multiple JFrames and is based on several different parameters outlined by my instructor. 
 
 It is designed as a prototype to present to a potential client who owns a coffee shop (not a cafe -weird, I know). You have prototype controls that allow you to insert test records so that you can display customer, coffee, and order data. 
 
