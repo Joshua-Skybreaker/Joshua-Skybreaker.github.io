@@ -1,4 +1,4 @@
-# Purpose
+# Skybreaker Projects
 I'm using this page to complement my resume by showcasing some of the projects I've completed.
 
 I feel confident in my Java programming skills but I haven't explored deep into many languages outside of that. I know a little bit of Python, html, css, and PostgreSQL; but I feel that programming really "clicks" with me and I love doing it. My goal is to land an entry level IT job before I graduate with a technical degree in the summer of 2022. I have been thinking of focusing on back-end programming but if you have any suggestions: **please email me!**
@@ -22,18 +22,16 @@ I thought that building this one could be useful for my life in general and I ma
   - Network & Security Foundations
   - Information Systems Business Concepts
   
-### 2. Online Courses
-  - PostgreSQL Bootcamp by Udemy
-  - JavaScript Bootcamp by Udemy
+### 2. Udemy Courses
+  - <a href="https://www.udemy.com/course/the-complete-sql-bootcamp/learn/lecture/18145024?start=0">The Complete SQL Bootcamp 2021: Go From Zero to Hero</a>
+  - <a href="https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648231?start=0#overview">The Complete JavaScript Course 2021: From Zero to Expert!</a>
+  - <a href="https://www.udemy.com/course-dashboard-redirect/?course_id=533682">Java Programming Masterclass covering Java 11 & Java 17</a>
+  - <a href="https://www.udemy.com/course-dashboard-redirect/?course_id=647428">Spring & Hibernate for Beginners (includes Spring Boot)</a>
+  - <a href="https://www.udemy.com/course-dashboard-redirect/?course_id=437398">Build Responsive Real-World Websites with HTML and CSS</a>
 
-## Completed Learning:
-### 1. College Courses
-  - Into to Programming logic
-  - Web, Programming, and Database Foundations
-  - Java Programming
-  - Advanced Java Programming
-
-_Only college courses directly related to software development listed._
+## College Degree:
+### Associates in Applied Science - Forsyth Technical Community College, 2022
+  - 
 
 ```java
 
