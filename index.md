@@ -23,11 +23,11 @@ I thought that building this one could be useful for my life in general and I ma
   - Information Systems Business Concepts
   
 ### 2. Udemy Courses
-  - <a href="https://www.udemy.com/course/the-complete-sql-bootcamp/learn/lecture/18145024?start=0">The Complete SQL Bootcamp 2021: Go From Zero to Hero</a>
-  - <a href="https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648231?start=0#overview">The Complete JavaScript Course 2021: From Zero to Expert!</a>
-  - <a href="https://www.udemy.com/course-dashboard-redirect/?course_id=533682">Java Programming Masterclass covering Java 11 & Java 17</a>
-  - <a href="https://www.udemy.com/course-dashboard-redirect/?course_id=647428">Spring & Hibernate for Beginners (includes Spring Boot)</a>
-  - <a href="https://www.udemy.com/course-dashboard-redirect/?course_id=437398">Build Responsive Real-World Websites with HTML and CSS</a>
+  - <a href="https://www.udemy.com/course/the-complete-sql-bootcamp/learn/lecture/18145024?start=0" target="blank">The Complete SQL Bootcamp 2021: Go From Zero to Hero</a>
+  - <a href="https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648231?start=0#overview" target="blank">The Complete JavaScript Course 2021: From Zero to Expert!</a>
+  - <a href="https://www.udemy.com/course-dashboard-redirect/?course_id=533682" target="blank">Java Programming Masterclass covering Java 11 & Java 17</a>
+  - <a href="https://www.udemy.com/course-dashboard-redirect/?course_id=647428" target="blank">Spring & Hibernate for Beginners (includes Spring Boot)</a>
+  - <a href="https://www.udemy.com/course-dashboard-redirect/?course_id=437398" target="blank">Build Responsive Real-World Websites with HTML and CSS</a>
 
 ## College Degree:
 ### Associates in Applied Science - Forsyth Technical Community College, 2022
