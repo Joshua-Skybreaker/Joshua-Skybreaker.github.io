@@ -31,7 +31,6 @@ I thought that building this one could be useful for my life in general and I ma
 
 ## College Degree:
 ### Associates in Applied Science - Forsyth Technical Community College, 2022
-  - 
 
 ```java
 
