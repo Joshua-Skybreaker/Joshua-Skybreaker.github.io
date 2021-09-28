@@ -14,15 +14,8 @@ It is designed as a prototype to present to a potential client who owns a coffee
 
 ###   2. <a href="https://github.com/Joshua-Skybreaker/budgetProject" target="_blank">Personal Budget</a>: not yet started.
 I thought that building this one could be useful for my life in general and I may as well show it too. If anyone can think of something I could add that would make it stand out, please let me konw.
-
-## Currently Learning:
-### 1. College Courses
-  - C# Programming
-  - Python Programming
-  - Network & Security Foundations
-  - Information Systems Business Concepts
   
-### 2. Udemy Courses
+## Udemy Courses
   - <a href="https://www.udemy.com/course/the-complete-sql-bootcamp/learn/lecture/18145024?start=0" target="blank">The Complete SQL Bootcamp 2021: Go From Zero to Hero</a>
   - <a href="https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648231?start=0#overview" target="blank">The Complete JavaScript Course 2021: From Zero to Expert!</a>
   - <a href="https://www.udemy.com/course-dashboard-redirect/?course_id=533682" target="blank">Java Programming Masterclass covering Java 11 & Java 17</a>
@@ -31,6 +24,8 @@ I thought that building this one could be useful for my life in general and I ma
 
 ## College Degree:
 ### Associates in Applied Science - Forsyth Technical Community College, 2022
+
+
 
 ```java
 
